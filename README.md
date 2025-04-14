@@ -106,11 +106,6 @@ CodeMedic is an advanced AI-powered code review application that helps developer
 - Mastered error handling and debugging techniques
 - Gained experience in performance optimization
 
-## 🔗 Links
-
-- [Live Demo](#) (Add your deployment link)
-- [GitHub Repository](#) (Add your repository link)
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
